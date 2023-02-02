@@ -45,14 +45,31 @@ Assim obtemos o seguinte dataframe:
 </p>
 
 Transformando em retornos mensais:
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82683162/215885345-043e0afb-a74c-4aac-a845-13027fca9877.png" />
+  <img src="https://user-images.githubusercontent.com/82683162/216373078-449a2ef0-70d9-4360-a8c5-96c750f0db8b.png" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82683162/215887823-13d8e2a5-1968-408b-9c54-c72c20a04f5e.png" />
 </p>
+
+Unindo-se os dados de retornos de WEGE3 e do IBOV:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216373606-6c1d60ae-cc55-4254-b9f1-2fbb6356dda9.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216373810-428cb11c-db16-4f13-8dd4-0d72a6f98d09.png" />
+</p>
+
+E finalmente plotando o gráfico de calor para os retornos de WEGE3 e do IBOV:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216374732-d5550b19-b720-459b-8618-72a845abb557.png" />
+</p>
+
+Para os retornos da WEGE3 obteve-se:
 
 
 
