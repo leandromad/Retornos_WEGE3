@@ -111,8 +111,8 @@ Agora vamos calcular o retorno anul da WEGE e do IBOV:
 
 E o retorno acumulado: 
 
-p align="center">
-  <img src="https://user-images.githubusercontent.com/82683162/216381037-88eada14-26f3-4730-b523-0aad4c02273a.png" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216382373-9a133514-aa91-4385-94b5-c919a217a9fc.png" />
 </p>
 
 
