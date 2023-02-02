@@ -1,0 +1,5 @@
+QuantStats==0.0.59
+yfinance==0.2.9
+pandas==1.4.3
+
+
