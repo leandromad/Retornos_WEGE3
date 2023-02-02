@@ -71,5 +71,52 @@ E finalmente plotando o gráfico de calor para os retornos de WEGE3 e do IBOV:
 
 Para os retornos da WEGE3 obteve-se:
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216378877-58699b17-b71f-4b33-9dae-5af3df778af7.png" />
+</p>
+
+E para os retornos do IBOV:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216377899-44636131-fd74-4555-9893-49d38b1c0356.png" />
+</p>
+
+Também é possível obter o gráfico de calor da diferença dos retornos entre WEGE3 e o IBOV:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216378654-d1e087cb-f204-4c85-9a75-bfe01290d652.png" />
+</p>
+
+É possível analisar a quantidade de meses que as ações da WEGE3 bateram o mercado, ou seja o IBOV:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216379395-ff3117d5-32e2-481c-97b5-72e30865798b.png" />
+</p>
+
+O resultado obtido é uma nova coluna com valores bool (True ou False), quando o retorno da WEGE foi maior do que o retorno do IBOV no período o resultado é True, caso o contrário False. E também a porcentagem do resultado True que é aproximadamente 0.54, ou seja, a WEGE bateu o IBOV em aproximadamente 54% dos meses comparados.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216380265-5e714709-fa85-4823-b354-3c3f650ebc13.png" />
+</p>
+
+Agora vamos calcular o retorno anul da WEGE e do IBOV:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216381037-88eada14-26f3-4730-b523-0aad4c02273a.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216381354-493e762a-d046-491c-9389-f614cd143410.png" />
+</p>
+
+E o retorno acumulado: 
+
+p align="center">
+  <img src="https://user-images.githubusercontent.com/82683162/216381037-88eada14-26f3-4730-b523-0aad4c02273a.png" />
+</p>
+
+
+
+
 
 
